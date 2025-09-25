@@ -1,0 +1,9 @@
+Pilotage dubus - nouveau logiciel (même fonctionnement que graf)
+
+Avancement sur les bases de données - explication
+
+Modification des fichiers de fabrication - Optimisation nettoyage fiabilité
+
+A venir :
+Base de données
+Boite Local

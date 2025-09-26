@@ -1,0 +1,12 @@
+1er application déploié en local 
+1er application déploié avec des bases C/S
+Des performances accru de plus de 60%
+De nombreux retour positif
+
+Une première chez pvc alu création et le debut de grande chose.
+
+Prochaine sujet:
+Problème avec le serveur actuel
+Changement de serveur
+Optimisation
+Fardeau

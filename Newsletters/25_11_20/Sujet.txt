@@ -5,6 +5,10 @@ De nombreux retour positif
 
 Une première chez pvc alu création et le debut de grande chose.
 
+Nouveau serveur disponibilité accrus
+performance altéré du a moins de ressources 
+optimisation de procedure pour moberer la memoire autant que possible
+
 Prochaine sujet:
 Problème avec le serveur actuel
 Changement de serveur

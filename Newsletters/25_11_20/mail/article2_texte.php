@@ -1,0 +1,3 @@
+Avec un début catastrophique dû à une méthode de synchronisation incompatible avec un travail sur des bases de données en ecriture constante. Les anciennes version des applications fonctionnait sur des bases de données locales et non centralisées.
+Cela causait des conflits de versions et des corruptions de données.
+Nous avons trouvé une solutions pour conserver la compatibilité avec les anciennes versions tout en garantissant une disponibilité continue des bases de données pour les applications Client/Serveur.
